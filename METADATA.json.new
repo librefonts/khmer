@@ -1,0 +1,24 @@
+{
+  "name": "Khmer",
+  "designer": "Danh Hong",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 74869,
+  "fonts": [
+    {
+      "name": "Khmer",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Khmer-Regular.ttf",
+      "postScriptName": "Khmer",
+      "fullName": "Khmer",
+      "copyright": "Copyright (c) 2013, Danh Hong (khmertype.org)"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-03-02"
+}
